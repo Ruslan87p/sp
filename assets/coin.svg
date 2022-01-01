@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.01" height="31.01" viewBox="0 0 32.01 31.01">
+  <g id="Group_1900" data-name="Group 1900" transform="translate(-108.99 -301.99)">
+    <g id="surface1" transform="translate(111 303)">
+      <path id="Path_3312" data-name="Path 3312" d="M15,0A15,15,0,1,0,30,15,15.052,15.052,0,0,0,15,0Zm0,0" fill="#ffe470"/>
+      <path id="Path_3313" data-name="Path 3313" d="M271,15a15.052,15.052,0,0,1-15,15V0A15.052,15.052,0,0,1,271,15Zm0,0" transform="translate(-241)" fill="#ffd400"/>
+      <path id="Path_3314" data-name="Path 3314" d="M72.426,61A11.426,11.426,0,1,0,83.852,72.426,11.448,11.448,0,0,0,72.426,61Zm0,0" transform="translate(-57.426 -57.426)" fill="#f2b701"/>
+      <path id="Path_3315" data-name="Path 3315" d="M267.426,72.426A11.448,11.448,0,0,1,256,83.852V61A11.448,11.448,0,0,1,267.426,72.426Zm0,0" transform="translate(-241 -57.426)" fill="#e38e00"/>
+      <g id="Trophy_31_" transform="translate(7.667 8.09)">
+        <g id="Group_1243" data-name="Group 1243" transform="translate(0 0)">
+          <path id="Path_2798" data-name="Path 2798" d="M201.115,82.015l-2.7-1.4-2.7,1.4a1.709,1.709,0,0,1-1.777-.132,1.692,1.692,0,0,1-.675-1.648l.5-3.009-2.167-2.139a1.693,1.693,0,0,1,.936-2.882l3.011-.453,1.363-2.725a1.764,1.764,0,0,1,3.031,0l1.363,2.725,3.011.453a1.693,1.693,0,0,1,.937,2.882l-2.167,2.139.5,3.009a1.694,1.694,0,0,1-2.452,1.78Z" transform="translate(-191.079 -68.167)" fill="#ffe470"/>
+        </g>
+      </g>
+      <path id="Path_3321" data-name="Path 3321" d="M258.7,82.015a1.693,1.693,0,0,0,2.452-1.78l-.5-3.009,2.167-2.139a1.693,1.693,0,0,0-.937-2.882l-3.011-.453-1.363-2.725A1.658,1.658,0,0,0,256,68.166V80.61Z" transform="translate(-241 -60.076)" fill="#ffd400"/>
+    </g>
+    <path id="Polygon_9" data-name="Polygon 9" d="M6.5,0l.813,5.688L13,6.5l-5.687.813L6.5,13,5.688,7.313,0,6.5l5.688-.812Z" transform="translate(126 320)" fill="#fff"/>
+    <g id="Group_1471" data-name="Group 1471" transform="translate(-7.01 -22.01)">
+      <path id="Polygon_10" data-name="Polygon 10" d="M8.5,0,9.563,7.438,17,8.5,9.563,9.563,8.5,17,7.438,9.563,0,8.5,7.438,7.438Z" transform="translate(116.01 324.01)" fill="#fff"/>
+      <path id="Polygon_11" data-name="Polygon 11" d="M5.675,0l.709,4.965,4.965.709-4.965.709-.709,4.965L4.965,6.384,0,5.675l4.965-.709Z" transform="translate(124.025 324) rotate(45)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

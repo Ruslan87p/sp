@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="Group_6130" data-name="Group 6130" transform="translate(-581.369 -418.136)">
+    <g id="Icon_feather-info" data-name="Icon feather-info" transform="translate(579.869 416.636)" style="mix-blend-mode: normal;isolation: isolate">
+      <path id="Path_14854" data-name="Path 14854" d="M33,18A15,15,0,1,1,18,3,15,15,0,0,1,33,18Z" fill="#ccc" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <path id="Vector" d="M7.439,1.156.846,8.135A2.449,2.449,0,0,0,.308,9.283l-.3,2.6a1.227,1.227,0,0,0,1.5,1.422L4.1,12.865a2.306,2.306,0,0,0,1.116-.6l6.594-6.979c1.14-1.2,1.654-2.578-.12-4.256C9.921-.635,8.58-.049,7.439,1.156Z" transform="translate(591.446 427.97)" fill="#001a1a"/>
+    <path id="Vector-2" data-name="Vector" d="M0,0A4.24,4.24,0,0,0,3.772,3.564" transform="translate(598.589 430.167)" fill="none" stroke="#b7d1d1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
